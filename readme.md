@@ -1,0 +1,1 @@
+Javascipt task on making a compound interest calculator with static values
